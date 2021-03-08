@@ -1,0 +1,23 @@
+div{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+}
+
+div:hover{
+    background-color: yellow;
+    border-radius: 100%;
+}
+section{
+    background: url("")no-repeat center center/cover;
+    height: 400px;
+
+}
+section:hover{
+    background: url("")no-repeat center center/cover;
+}
+
+
+
+
+

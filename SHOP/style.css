@@ -1,0 +1,23 @@
+header{
+    background-color: #46BDC6;
+    color:white;
+    font-size: 20px;
+    font-size:1.7em;
+}
+
+h1{
+    text-decoration: underline orange;
+    font-size:1.7em;
+}
+
+h3{
+    color:orange
+}
+
+article h3{
+    background-color: rgb(221, 220, 203);
+    padding: 20px;
+    margin:10px ;
+}
+
+
